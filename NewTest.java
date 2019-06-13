@@ -1,6 +1,6 @@
 package TestSample;
 
-import java.util.Scanner;
+
  
 class NewTest
 {
